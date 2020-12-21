@@ -1,5 +1,5 @@
 
-///Watch youtube video of this code- https://youtu.be/4gLJhcK1WQc 
+///Watch youtube video of this code- https://youtu.be/4gLJhcK1WQc
 
 
 void setup() {
@@ -124,8 +124,6 @@ void loop() {
       delay(20);
     }
   }
-
-
 
 
 
